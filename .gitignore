@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+node_modules/
+build/
+.env
+package-lock.json
+dist
+project_files/
+.DS_Store
+sr_game.code-workspace
+graphics
